@@ -33,7 +33,7 @@
   Vue + Django 底座开发中..敬请期待
 
 ### java 【vue+springboot·前后端分离方向】
-- 1 [【自动定位打卡+可视化+离校审批+疫情地图】vue+springboot 校园疫情精准防控健康打卡系统全套](https://www.bilibili.com/video/BV1MR4y1F7Hf/) **
+- 1 [【自动定位打卡+可视化+离校审批+现有确诊疫情地图+健康码、行程码、核酸报告上传+全BUG修复v2.0版本】vue+springboot 校园疫情精准防控健康打卡系统全套](https://www.bilibili.com/video/BV1MR4y1F7Hf/) **
 - 2 [【图像识别+可视化】vue+springboot 百度AI图像识别果蔬识别平台系统 全套 ](https://www.bilibili.com/video/BV1U3411E7BL/)**
 - 3 [【可视化大屏+爬虫+1W多条数据】vue+springboot 高考志愿大数据系统 ](https://www.bilibili.com/video/BV1vS4y1j7US/)
 - 4 [【可视化大屏+网站+管理端+沙箱支付+短信验证码】vue+springboot 智慧农业技术大数据系统](https://www.bilibili.com/video/BV18i4y1y7qu/)
