@@ -4,7 +4,7 @@
 - 📫 How to reach me 
   - QQ:1693353672 3397640089  【加QQ注明是 Github来的， 另外源码有偿获取，白嫖党请自重】
   - B站空间，欢迎关注我的B站： [前往](https://space.bilibili.com/1583208775?spm_id_from=333.1007.0.0)
-
+  - 
 ## 项目
 ### python·vue+flask 【前后端分离·大数据方向】
 - 1 [【推荐算法+可视化】vue+flask 电影大数据源码 协同过滤+爬虫 全套](https://www.bilibili.com/video/BV1R34y1C7N5?share_source=copy_web)    :point_left: 已发布，链接
@@ -41,4 +41,3 @@
 - 6 [【可视化大屏+药方可视化+药材产地地图+前后端分离】vue+springboot中药药材药方大数据平台](https://www.bilibili.com/video/BV1Uu41127RX/)
 - 7 [【vant移动端 + 大学生创新项目】vue+springboot 研究生导师移动科研助手](https://www.bilibili.com/video/BV1Sq4y1w7nP/)
 -  【前后端分离+支付宝沙箱支付】 vue+springboot装修帮帮网的设计与实现(开发中)
-
