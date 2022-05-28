@@ -47,3 +47,28 @@
 ### 功能模块图
 
 ![功能模块图](http://www.coderobot.top:5000/file/download/F20-A.png)
+
+### 系统截图
+
+![](http://www.coderobot.top:5000/file/download/F20-1.png)
+
+![](http://www.coderobot.top:5000/file/download/F20-2.png)
+
+![](http://www.coderobot.top:5000/file/download/F20-3.png)
+
+![](http://www.coderobot.top:5000/file/download/F20-4.png)
+
+![](http://www.coderobot.top:5000/file/download/F20-5.png)
+
+![](http://www.coderobot.top:5000/file/download/F20-6.png)
+
+![](http://www.coderobot.top:5000/file/download/F20-7.png)
+
+![](http://www.coderobot.top:5000/file/download/F20-8.png)
+
+![](http://www.coderobot.top:5000/file/download/F20-9.png)
+
+![](http://www.coderobot.top:5000/file/download/F20-10.png)
+
+![](http://www.coderobot.top:5000/file/download/F20-1.png)
+
